@@ -1,5 +1,5 @@
 # Arduino-audio-jack-led-control-with-wireless-
-This project requires at least two separate arduinos.
+This project requires at least two separate arduinos. We used a Mega for the transmitter and nanos for the recievers.
 This project requires two "NRF24L01 Wireless Transceiver Module+2.4GHz Antenna for Arduino" or an arduinot with one of these integrated in like the
 "Emakefun BLE Nano for Arduino with Wireless BLE and Micro-USB Interface,TICC2540 Chip,Compatible to Arduino Nano V3.0".
 A female audio jack port that breaks out the signals is required for this project. 
